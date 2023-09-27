@@ -58,6 +58,36 @@ main {
     
 }
 
+.intro-text {
+    justify-content: center;
+    text-align: center;
+}
+
+.virgil-img {
+    justify-content: center;
+    height: auto; 
+    max-width: 100%;
+}
+
+.biografie {
+    margin-left: 20rem;
+    margin-right: 20rem;
+}
+
+.p1 {
+    width: 45%;
+    padding: 1rem;
+    margin: 1rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.p2 {
+    justify-content: center;
+    width: 45%;
+    padding: 1rem;
+    margin: 1rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
 
 footer {
     font-family: 'Courier New', Courier, monospace;
